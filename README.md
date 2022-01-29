@@ -1,2 +1,2 @@
 # upgrad_live_github
-Upgrad live session
+Upgrad live session for Git and GitHub
